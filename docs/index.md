@@ -6,7 +6,7 @@ layout: tabbed-assignment
 
 <!-- img class="overview-image" src="" -->
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+In this assignment we continue working on understanding the nature of programming languages and algorithms.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
