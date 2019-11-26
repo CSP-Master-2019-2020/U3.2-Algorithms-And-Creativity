@@ -4,11 +4,10 @@ layout: tabbed-assignment
 
 # Instructions
 
-1. This, then
-1. That, and finally
-1. The other thing
+Today we'll continue our unplugged introduction to programming. You can find vocabulary, the activity guides, and review here:
 
-## Notes
+* [Lesson 2: The Need for Algorithms](http://studio.code.org/s/csp3-2019/stage/2/puzzle/1) - second activity
+* [Lesson 3: Creativity in Algorithms](https://studio.code.org/s/csp3-2019/stage/3/puzzle/1/)
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
